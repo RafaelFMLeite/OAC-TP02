@@ -1,6 +1,6 @@
 # Projeto: Processador RISC-V Simplificado - CSI211
 
-[cite_start]Este repositório contém a implementação de um caminho de dados simplificado para a arquitetura RISC-V[cite: 7]. [cite_start]O projeto foi desenvolvido para a disciplina de Fundamentos de Organização e Arquitetura de Computadores (CSI211) do curso de Sistemas de Informação da Universidade Federal de Ouro Preto (UFOP), Campus João Monlevade[cite: 1, 3].
+Este repositório contém a implementação de um caminho de dados simplificado para a arquitetura RISC-V[cite: 7]. [cite_start]O projeto foi desenvolvido para a disciplina de Fundamentos de Organização e Arquitetura de Computadores (CSI211) do curso de Sistemas de Informação da Universidade Federal de Ouro Preto (UFOP)
 
 O processador foi projetado para executar um subconjunto específico de instruções, incluindo `lw`, `sw`, `sub`, `xor`, `addi`, `srl` e `beq`.
 
